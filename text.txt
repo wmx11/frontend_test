@@ -1,0 +1,11 @@
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
+
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+
+* Pradþioje, atsidarius puslapá, atsiranda virðutinës dalies nuotraukos, po to tekstas „Build your business“ ir ið kairës á deðinæ nusibrëþia linija
+* Nuotraukos, esanèios virðutinëje dalyje, gali keistis kas kelias sekundes
+* Hoverinant ant projekto, papildomai atiranda ir jo apraðymas
+* "About us" - jei tekstas, esantis deðinëje, netelpa per aukðtá á ekranà, "About us" antraðtë turëtø bûti prikibusi kairiam ðone, o scrollintøsi tik pats tekstas;
+* "Our services" – sàraðo elementai galëtø atsirasti ne vienu metu, o greitai iðsirikiuoti vienas po kitu
+* Gale esanèioje formoje pradëjus raðyti labelis turëtø pasislinkti á virðø, kaip ir pavaizduota
+* Puslapis turi bûti pritaikytas ir mobiliems árenginiams
